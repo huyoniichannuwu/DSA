@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\Documents\\C\u1EA5u tr\u00FAc d\u1EEF li\u1EC7u v\u00E0 gi\u1EA3i thu\u1EADt\\Labs\\LAB 2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{681F0290-9046-49BC-B415-E4282C115416}|LAB 2\\LAB 2.vcxproj|C:\\Users\\Admin\\Documents\\C\u1EA5u tr\u00FAc d\u1EEF li\u1EC7u v\u00E0 gi\u1EA3i thu\u1EADt\\Labs\\LAB 2\\LAB 2\\Node.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{681F0290-9046-49BC-B415-E4282C115416}|LAB 2\\LAB 2.vcxproj|solutionrelative:LAB 2\\Node.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{681F0290-9046-49BC-B415-E4282C115416}|LAB 2\\LAB 2.vcxproj|C:\\Users\\Admin\\Documents\\C\u1EA5u tr\u00FAc d\u1EEF li\u1EC7u v\u00E0 gi\u1EA3i thu\u1EADt\\Labs\\LAB 2\\LAB 2\\main BST.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{681F0290-9046-49BC-B415-E4282C115416}|LAB 2\\LAB 2.vcxproj|solutionrelative:LAB 2\\main BST.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{681F0290-9046-49BC-B415-E4282C115416}|LAB 2\\LAB 2.vcxproj|C:\\Users\\Admin\\Documents\\C\u1EA5u tr\u00FAc d\u1EEF li\u1EC7u v\u00E0 gi\u1EA3i thu\u1EADt\\Labs\\LAB 2\\LAB 2\\Node.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{681F0290-9046-49BC-B415-E4282C115416}|LAB 2\\LAB 2.vcxproj|solutionrelative:LAB 2\\Node.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{681F0290-9046-49BC-B415-E4282C115416}|LAB 2\\LAB 2.vcxproj|C:\\Users\\Admin\\Documents\\C\u1EA5u tr\u00FAc d\u1EEF li\u1EC7u v\u00E0 gi\u1EA3i thu\u1EADt\\Labs\\LAB 2\\LAB 2\\BST.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -13,14 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{681F0290-9046-49BC-B415-E4282C115416}|LAB 2\\LAB 2.vcxproj|C:\\Users\\Admin\\Documents\\C\u1EA5u tr\u00FAc d\u1EEF li\u1EC7u v\u00E0 gi\u1EA3i thu\u1EADt\\Labs\\LAB 2\\LAB 2\\BST.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{681F0290-9046-49BC-B415-E4282C115416}|LAB 2\\LAB 2.vcxproj|solutionrelative:LAB 2\\BST.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{681F0290-9046-49BC-B415-E4282C115416}|LAB 2\\LAB 2.vcxproj|C:\\Users\\Admin\\Documents\\C\u1EA5u tr\u00FAc d\u1EEF li\u1EC7u v\u00E0 gi\u1EA3i thu\u1EADt\\Labs\\LAB 2\\LAB 2\\Node.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{681F0290-9046-49BC-B415-E4282C115416}|LAB 2\\LAB 2.vcxproj|solutionrelative:LAB 2\\Node.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{681F0290-9046-49BC-B415-E4282C115416}|LAB 2\\LAB 2.vcxproj|C:\\Users\\Admin\\Documents\\C\u1EA5u tr\u00FAc d\u1EEF li\u1EC7u v\u00E0 gi\u1EA3i thu\u1EADt\\Labs\\LAB 2\\LAB 2\\Node.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{681F0290-9046-49BC-B415-E4282C115416}|LAB 2\\LAB 2.vcxproj|solutionrelative:LAB 2\\Node.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{681F0290-9046-49BC-B415-E4282C115416}|LAB 2\\LAB 2.vcxproj|C:\\Users\\Admin\\Documents\\C\u1EA5u tr\u00FAc d\u1EEF li\u1EC7u v\u00E0 gi\u1EA3i thu\u1EADt\\Labs\\LAB 2\\LAB 2\\main train.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -78,68 +78,66 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "main BST.cpp",
               "DocumentMoniker": "C:\\Users\\Admin\\Documents\\C\u1EA5u tr\u00FAc d\u1EEF li\u1EC7u v\u00E0 gi\u1EA3i thu\u1EADt\\Labs\\LAB 2\\LAB 2\\main BST.cpp",
               "RelativeDocumentMoniker": "LAB 2\\main BST.cpp",
               "ToolTip": "C:\\Users\\Admin\\Documents\\C\u1EA5u tr\u00FAc d\u1EEF li\u1EC7u v\u00E0 gi\u1EA3i thu\u1EADt\\Labs\\LAB 2\\LAB 2\\main BST.cpp",
               "RelativeToolTip": "LAB 2\\main BST.cpp",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAA8AAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAuwGwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-11-01T03:59:18.478Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-01T03:59:18.478Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "BST.cpp",
               "DocumentMoniker": "C:\\Users\\Admin\\Documents\\C\u1EA5u tr\u00FAc d\u1EEF li\u1EC7u v\u00E0 gi\u1EA3i thu\u1EADt\\Labs\\LAB 2\\LAB 2\\BST.cpp",
               "RelativeDocumentMoniker": "LAB 2\\BST.cpp",
               "ToolTip": "C:\\Users\\Admin\\Documents\\C\u1EA5u tr\u00FAc d\u1EEF li\u1EC7u v\u00E0 gi\u1EA3i thu\u1EADt\\Labs\\LAB 2\\LAB 2\\BST.cpp",
               "RelativeToolTip": "LAB 2\\BST.cpp",
-              "ViewState": "AgIAABcBAAAAAAAAAAAcwD4BAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAFIBAAAAAAAAAAAUwG4BAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-10-31T01:11:54.544Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-31T01:11:54.544Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "BST.h",
               "DocumentMoniker": "C:\\Users\\Admin\\Documents\\C\u1EA5u tr\u00FAc d\u1EEF li\u1EC7u v\u00E0 gi\u1EA3i thu\u1EADt\\Labs\\LAB 2\\LAB 2\\BST.h",
               "RelativeDocumentMoniker": "LAB 2\\BST.h",
               "ToolTip": "C:\\Users\\Admin\\Documents\\C\u1EA5u tr\u00FAc d\u1EEF li\u1EC7u v\u00E0 gi\u1EA3i thu\u1EADt\\Labs\\LAB 2\\LAB 2\\BST.h",
               "RelativeToolTip": "LAB 2\\BST.h",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAACsAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAABoAAAAAAAAAAAAUwDQAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-10-31T01:05:58.212Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-31T01:05:58.212Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Node.cpp",
               "DocumentMoniker": "C:\\Users\\Admin\\Documents\\C\u1EA5u tr\u00FAc d\u1EEF li\u1EC7u v\u00E0 gi\u1EA3i thu\u1EADt\\Labs\\LAB 2\\LAB 2\\Node.cpp",
               "RelativeDocumentMoniker": "LAB 2\\Node.cpp",
               "ToolTip": "C:\\Users\\Admin\\Documents\\C\u1EA5u tr\u00FAc d\u1EEF li\u1EC7u v\u00E0 gi\u1EA3i thu\u1EADt\\Labs\\LAB 2\\LAB 2\\Node.cpp",
               "RelativeToolTip": "LAB 2\\Node.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-10-31T01:03:31.894Z"
+              "WhenOpened": "2025-10-31T01:03:31.894Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Node.h",
               "DocumentMoniker": "C:\\Users\\Admin\\Documents\\C\u1EA5u tr\u00FAc d\u1EEF li\u1EC7u v\u00E0 gi\u1EA3i thu\u1EADt\\Labs\\LAB 2\\LAB 2\\Node.h",
               "RelativeDocumentMoniker": "LAB 2\\Node.h",
               "ToolTip": "C:\\Users\\Admin\\Documents\\C\u1EA5u tr\u00FAc d\u1EEF li\u1EC7u v\u00E0 gi\u1EA3i thu\u1EADt\\Labs\\LAB 2\\LAB 2\\Node.h",
               "RelativeToolTip": "LAB 2\\Node.h",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAACoAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAC8AAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-10-31T00:55:26.724Z"
             },

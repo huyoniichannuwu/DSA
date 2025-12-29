@@ -1,0 +1,60 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Documents\\C\u1EA5u tr\u00FAc d\u1EEF li\u1EC7u v\u00E0 gi\u1EA3i thu\u1EADt\\Labs\\LAB Sort\\QuickSort\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{449DE443-215C-4141-B3AC-40B3B34A0763}|QuickSort\\QuickSort.vcxproj|C:\\Users\\Admin\\Documents\\C\u1EA5u tr\u00FAc d\u1EEF li\u1EC7u v\u00E0 gi\u1EA3i thu\u1EADt\\Labs\\LAB Sort\\QuickSort\\QuickSort\\QuickSort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{449DE443-215C-4141-B3AC-40B3B34A0763}|QuickSort\\QuickSort.vcxproj|solutionrelative:QuickSort\\QuickSort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{449DE443-215C-4141-B3AC-40B3B34A0763}|QuickSort\\QuickSort.vcxproj|C:\\Users\\Admin\\Documents\\C\u1EA5u tr\u00FAc d\u1EEF li\u1EC7u v\u00E0 gi\u1EA3i thu\u1EADt\\Labs\\LAB Sort\\QuickSort\\QuickSort\\Numbers.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{449DE443-215C-4141-B3AC-40B3B34A0763}|QuickSort\\QuickSort.vcxproj|solutionrelative:QuickSort\\Numbers.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "QuickSort.cpp",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\C\u1EA5u tr\u00FAc d\u1EEF li\u1EC7u v\u00E0 gi\u1EA3i thu\u1EADt\\Labs\\LAB Sort\\QuickSort\\QuickSort\\QuickSort.cpp",
+              "RelativeDocumentMoniker": "QuickSort\\QuickSort.cpp",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\C\u1EA5u tr\u00FAc d\u1EEF li\u1EC7u v\u00E0 gi\u1EA3i thu\u1EADt\\Labs\\LAB Sort\\QuickSort\\QuickSort\\QuickSort.cpp",
+              "RelativeToolTip": "QuickSort\\QuickSort.cpp",
+              "ViewState": "AgIAADsAAAAAAAAAAAAAwEYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-04T14:09:57.369Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Numbers.txt",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\C\u1EA5u tr\u00FAc d\u1EEF li\u1EC7u v\u00E0 gi\u1EA3i thu\u1EADt\\Labs\\LAB Sort\\QuickSort\\QuickSort\\Numbers.txt",
+              "RelativeDocumentMoniker": "QuickSort\\Numbers.txt",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\C\u1EA5u tr\u00FAc d\u1EEF li\u1EC7u v\u00E0 gi\u1EA3i thu\u1EADt\\Labs\\LAB Sort\\QuickSort\\QuickSort\\Numbers.txt",
+              "RelativeToolTip": "QuickSort\\Numbers.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-12-04T14:58:23.566Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
